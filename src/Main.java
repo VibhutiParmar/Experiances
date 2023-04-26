@@ -9,7 +9,7 @@ public class Main {
 	
 		System.out.println("You are in the main class");
 		vibhuti();
-
+		System.out.println("This is also new change I made recently");
 	    
 
 	       
@@ -30,6 +30,7 @@ public class Main {
 	        for(int i=0; i<5; i++){
 	             x++;
 	            System.out.println(x);
+	            System.out.println("This is also new change I made recently");
 	        }
 	}
 	
